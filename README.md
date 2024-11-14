@@ -1,4 +1,4 @@
-## *«Cuando los elefantes luchan,es la hierba la que sufre».*
+## *«Cuando los elefantes luchan, la hierba es la que sufre».*
 ### Proverbio africano
 
 # *Programación para ingeniería*
