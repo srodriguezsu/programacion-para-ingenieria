@@ -1,5 +1,5 @@
-## *«Cuando los elefantes luchan, la hierba es la que sufre».*
-### Proverbio africano
+## *«El único progreso verdadero es aprender a equivocarse sin ayuda».*
+### [Albert Camus](https://es.wikipedia.org/wiki/Albert_Camus)
 
 # *Programación para ingeniería*
 Talleres de librerías de Python útiles para programación en ingeniería utilizando Google Colaboratory.
